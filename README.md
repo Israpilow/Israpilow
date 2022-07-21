@@ -15,7 +15,7 @@ The stack of technologies that I use in this project: Next.js, React, Typescript
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israpilow&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israpilow&layout=compact&theme=highcontrast&langs_count=4)
 
 ### My technology stack
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
