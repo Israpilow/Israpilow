@@ -1,7 +1,6 @@
 # 🙋🏻‍♂️ Welcome !
 
-Hi, my full name Israpilov Jamal. I'm a frontend developer. I'm write in JavaScript, ReactJs, Redux, React Native
-
+Hi, my full name Israpilov Jamal. I'm a frontend developer.
 
 Proficient: JavaScript, React, Next.js, TypeScript, Redux, React Native
 
