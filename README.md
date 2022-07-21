@@ -4,7 +4,7 @@ I bring order to the chaos, turn coffee into code, automate processes, constantl
 
 Proficient: JavaScript, React, Next.js, TypeScript, Redux, React Native
 
-## 😄 About me 
+## 🕺🏻 About me 
 
 ✌️ My name is Jamal, I am 22 years old.
 
