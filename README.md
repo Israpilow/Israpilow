@@ -1,6 +1,7 @@
 # 🙋🏻‍♂️ Welcome !
 
-I bring order to the chaos, turn coffee into code, automate processes, constantly develop
+Hi, my full name Israpilov Jamal. I'm a frontend developer. I'm write in JavaScript, ReactJs, Redux, React Native
+
 
 Proficient: JavaScript, React, Next.js, TypeScript, Redux, React Native
 
