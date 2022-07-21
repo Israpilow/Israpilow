@@ -1,4 +1,23 @@
-### Мой стек технологий
+#🙋🏻‍♂️ Welcome !
+
+I bring order to the chaos, turn coffee into code, automate processes, constantly develop
+
+Proficient: JavaScript, React, Next, TypeScript, Redux, React Native
+
+## 😄 About me 
+
+✌️ My name is Jamal, I am 22 years old.
+
+🎓I have experience in React development, creating mobile applications in React Native, I can also make adaptive layout and develop a telegram bot. In addition, I implemented websites from scratch for various veterinary clinics
+
+👨🏻‍💻 I'm currently working on my clone project.
+The stack of technologies that I use in this project: Next.js, React, Typescript, Redux Toolkit, React Query, Axios, Draft.js, React Select, React Hook Form, Tailwind
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israpilow&layout=compact&theme=highcontrast)
+
+### My technology stack
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![Sass/Scss](https://img.shields.io/badge/-Sass/Scss-333?style=for-the-badge&logo=Sass&logoColor=violet)
