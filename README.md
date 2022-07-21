@@ -12,6 +12,7 @@ Proficient: JavaScript, React, Next.js, TypeScript, Redux, React Native
 
 👨🏻‍💻 I'm currently working on my clone project.
 The stack of technologies that I use in this project: Next.js, React, Typescript, Redux Toolkit, React Query, Axios, Draft.js, React Select, React Hook Form, Tailwind
+
 🎨 I love drawing  UI design
 
 ## 📈 GitHub Stats
