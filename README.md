@@ -15,7 +15,7 @@ The stack of technologies that I use in this project: Next.js, React, Typescript
 
 🎨 And also, I love to draw UI design
 
-## My technology stack
+## 🚀 My technology stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
