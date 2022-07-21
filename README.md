@@ -1,7 +1,5 @@
 # 🙋🏻‍♂️ Welcome !
 
-Proficient: JavaScript, React, Next.js, TypeScript, Redux, React Native
-
 ## 🕺🏻 About me 
 
 ✌️ My name is Jamal, I am 22 years old.
