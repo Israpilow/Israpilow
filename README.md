@@ -15,7 +15,7 @@ The stack of technologies that I use in this project: Next.js, React, Typescript
 
 🎨 And also, I love to draw UI design
 
-### My technology stack
+## My technology stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -34,6 +34,6 @@ The stack of technologies that I use in this project: Next.js, React, Typescript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israpilow&layout=compact&theme=highcontrast&langs_count=4)
 
-### Contacts
+## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jamal_israpilov)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Israpilow)
