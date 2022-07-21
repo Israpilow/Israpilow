@@ -10,7 +10,7 @@ Proficient: JavaScript, React, Next.js, TypeScript, Redux, React Native
 
 🎓I have experience in React development, creating mobile applications in React Native, I can also make adaptive layout and develop a telegram bot. In addition, I implemented websites from scratch for various veterinary clinics
 
-👨🏻‍💻 I'm currently working on my clone project.
+👨🏻‍💻 I'm currently working on my Netflix clone  project.
 The stack of technologies that I use in this project: Next.js, React, Typescript, Redux Toolkit, React Query, Axios, Draft.js, React Select, React Hook Form, Tailwind
 
 🎨 And also, I love to draw UI design
