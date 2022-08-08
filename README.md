@@ -26,7 +26,7 @@ The stack of technologies that I use in this project: Next.js, React, Typescript
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israpilow&layout=compact&theme=highcontrast&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israpilow&layout=compact&theme=highcontrast&langs_count=2)
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jamal_israpilov)
