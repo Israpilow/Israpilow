@@ -4,7 +4,7 @@
 
 ✌️ My name is Jamal, I am 22 years old.
 
-🎓I have experience in React development, creating mobile applications in React Native, I can also make adaptive layout and develop a telegram bot. In addition, I implemented websites from scratch for various veterinary clinics
+🎓I have experience in React development, I can also make adaptive layout and develop a telegram bot. In addition, I implemented websites from scratch for various veterinary clinics
 
 👨🏻‍💻 I'm currently working on my Netflix clone  project.
 The stack of technologies that I use in this project: Next.js, React, Typescript, Redux Toolkit, React Query, Axios, Draft.js, React Select, React Hook Form, Tailwind
